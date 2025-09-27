@@ -1,0 +1,23 @@
+[
+    {
+        "name" : "San Francisco, California",
+        "image" : "sanFran.jpg",
+        "description" : "<p>Home of the Golden Gate Bridge and the infamous Alcatraz prison! Visit here and you will never want to leave. Perfect location for families!</p>"
+    } , {
+        "name" : "Seattle, Washington",
+        "image" : "seattle.jpg",
+        "description" : "<p>Come and see the gravity defying Space Needle! Seattle is a beautiful lavish city with beautiful landmarks and the birthplace of Starbucks! It also has a cool glass museum!</p>"
+    } , {
+        "name" : "Las Vegas, Nevada",
+        "image" : "lasVegas.jpg",
+        "description" : "<p>Cool history and even cooler buffets! A city that never sleeps, this wild city can create daring memories and is perfect for a vacation! Be warned, you will spend a lot of money!</p>"
+    } , {
+        "name" : "Los Angeles, California",
+        "image" : "losAngeles.jpg",
+        "description" : "<p>Known for its infamous Hollywood sign and lifestyle, come enjoy the beautiful beaches and stay awhile! If you are a movie fanatic then come and visit because a lot of movie stars live here!</p>"
+    } , {
+        "name" : "Cleveland, Ohio",
+        "image" : "cleveland.jpg",
+        "description" : "<p>Love music? Come here! This beautiful city is well-known for its Rock and Roll Hall of Fame that is a hot tourist attraction! Very nice environment.</p>"
+    }
+]
