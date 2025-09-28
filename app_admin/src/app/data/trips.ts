@@ -1,0 +1,48 @@
+export const trips = [ 
+    {
+        "code" : "SANF412012",
+        "name" : "San Francisco, California",
+        "length" : "4 nights / 5 days",
+        "start" : "2026-09-21T08:00:00Z",
+        "hotel" : "Fairmont",
+        "price" : "1,200.00",
+        "image" : "sanFran.jpg",
+        "description" : "<p>Home of the Golden Gate Bridge and the infamous Alcatraz prison! Visit here and you will never want to leave. Perfect location for families!</p>"
+    } , {
+        "code" : "SEAW412013",
+        "name" : "Seattle, Washington",
+        "length" : "6 nights / 7 days",
+        "start" : "2026-08-26T09:00:00Z",
+        "hotel" : "Westin",
+        "price" : "1,400.00",
+        "image" : "seattle.jpg",
+        "description" : "<p>Come and see the gravity defying Space Needle! Seattle is a beautiful lavish city with beautiful landmarks and the birthplace of Starbucks! It also has a cool glass museum!</p>"
+    } , {
+        "code" : "LASV412014",
+        "name" : "Las Vegas, Nevada",
+        "length" : "3 nights / 4 days",
+        "start" : "2026-09-24T08:00:00Z",
+        "hotel" : "MGM Grand",
+        "price" : "3,000.00",
+        "image" : "lasVegas.jpg",
+        "description" : "<p>Cool history and even cooler buffets! A city that never sleeps, this wild city can create daring memories and is perfect for a vacation! Be warned, you will spend a lot of money!</p>"
+    } , {
+        "code" : "LOSA412015",
+        "name" : "Los Angeles, California",
+        "length" : "6 nights / 7 days",
+        "start" : "2026-07-21T07:00:00Z",
+        "hotel" : "Westin",
+        "price" : "900.00",
+        "image" : "losAngeles.jpg",
+        "description" : "<p>Known for its infamous Hollywood sign and lifestyle, come enjoy the beautiful beaches and stay awhile! If you are a movie fanatic then come and visit because a lot of movie stars live here!</p>"
+    } , {
+        "code" : "CLEV412016",
+        "name" : "Cleveland, Ohio",
+        "length" : "4 nights / 5 days",
+        "start" : "2026-06-21T06:00:00Z",
+        "hotel" : "Westin",
+        "price" : "800.00",
+        "image" : "cleveland.jpg",
+        "description" : "<p>Love music? Come here! This beautiful city is well-known for its Rock and Roll Hall of Fame that is a hot tourist attraction! Very nice environment.</p>"
+    }
+];
