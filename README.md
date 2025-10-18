@@ -1,1 +1,8 @@
 # alomas3.github.io
+
+CS 499 CAPSTONE
+
+SNHU COMPUTER SCIENCE
+
+ALYSSA LOMAS
+
