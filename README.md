@@ -1,4 +1,4 @@
-# Example headings
+# SNHU CS 499 CAPSTONE
 
 ## Sample Section
 
