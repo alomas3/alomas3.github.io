@@ -1,183 +1,24 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>Uncle's!</title>
-	<link rel="stylesheet" type="text/css" href="css/style.css">
-</head>
-<body>
-	<!-- Heading -->
-	<header id="main-header">
-		<div class="container">
-			<h1>Welcome to Uncle's Travel Agency</h1>
-		</div>
-	</header>
+# Example headings
 
+## Sample Section
 
-	<!-- Define navigation bar with links -->
-	<nav id="navbar">
-		<div class="container">
-			<ul>
-				<li><a href="Uncles.html">Home</a></li>
-				<li><a href="History.html">History</a></li>
-				<li><a href="Gallery.html">Gallery</a></li>
-				<li><a href="TravelPackages.html">Travel Packages</a></li>
-				<li><a href="AboutUs.html">About Us</a></li>
-				
-			</ul>
-		</div>
-	</nav>
+## This'll be a _Helpful_ Section About the Greek Letter Θ!
+A heading containing characters not allowed in fragments, UTF-8 characters, two consecutive spaces between the first and second words, and formatting.
 
-	<br>
+## This heading is not unique in the file
 
-	<!-- Picture for Home page -->
-	<section id="showcaseHome">
-		<div class="container">
-		</div>
-	</section>
+TEXT 1
 
-	<br>
+## This heading is not unique in the file
 
-	<!-- Paragraph -->
-	<div class="container">
-		<section id="main-header">
-			<h1>Welcome</h1>
-			<h3>
-				Hello and welcome to Uncle's! 
-			</h3>
-			<p>
-				We are happy to serve our loyal customers! We provide the best services to get you the perfect vacation getaway that you deserve!
-			</p>
-		</section>
+TEXT 2
 
-		<!-- Adding hours -->
-		<aside id="sidebar">
-			<h3>
-				Hours of Operation
-			</h3>
-			<p>
-				Give us a call or leave a message
-			</p>
-			<table>
-				  <thead>
-				  	<tr>
-				      <th>Day</th>
-				      <th>Hours</th>
-				    </tr>
-				  </thead>
-				  <tbody>
-				    <tr>
-				      	<td>Monday :</td>
-				    	<td>9:00 AM - 5:00 PM</td>
-				    </tr>
-				    <tr>
-				     	<td>Tuesday :</td>
-				    	<td>9:00 AM - 5:00 PM</td>
-				    </tr>
-				    <tr>
-				    	<td>Wednesday :</td>
-				    	<td>9:00 AM - 5:00 PM</td>
-				    </tr>
-				    <tr>
-				    	<td>Thursday :</td>
-				    	<td>9:00 AM - 5:00 PM</td>
-				    </tr>
-				    <tr>
-				    	<td>Friday :</td>
-				    	<td>9:00 AM - 9:00 PM</td>
-				    </tr>
-				    <tr>
-				    	<td>Saturday :</td>
-				    	<td>9:00 AM - 9:00 PM</td>
-				    </tr>
-				    <tr>
-				    	<td>Sunday :</td>
-				    	<td>9:00 AM - 5:00 PM</td>
-				    </tr>
-				  </tbody>
-				</table>
-		</aside>
-	</div>
+# Links to the example headings above
 
+Link to the sample section: [Link Text](#sample-section).
 
-	<br>
+Link to the helpful section: [Link Text](#thisll-be-a-helpful-section-about-the-greek-letter-Θ).
 
-	<!-- Add form -->
-	<header id="main-header">
-		<div class="container">
-			<h1>Contact Us!</h1>
-		</div>
-			<form action="Uncles.html" method="post">
-				<div>
-					<label>First Name</label>
-					<input type="text" name="firstName"
-					placeholder="Enter first name">
-				</div>
+Link to the first non-unique section: [Link Text](#this-heading-is-not-unique-in-the-file).
 
-				<div>
-					<label>Last Name</label>
-					<input type="text" name="lastName">
-				</div>
-
-				<div>
-					<label>Email</label>
-					<input type="email" name="email">
-				</div>
-
-				<div>
-					<label>Message</label>
-					<textarea name="message"></textarea>
-				</div>
-
-				<div>
-					<label>Age:</label>
-					<input type="number" name="age" value="0">
-				</div>
-
-				<div>
-					<label>Birthday:</label>
-					<input type="date" name="Birthday">
-				</div>
-
-			<input type="submit" name="submit" value="Submit">
-
-		</form>
-
-		<!-- Add Address -->
-		<h2>Uncle's Travel Agency</h2>
-			<p>
-				<span>Address:</span> 123 Uncles Travel Road, Real City, UK 12345
-			</p>
-			<p>
-				<span>Telephone Number:</span> 1-800-123-4567
-			</p>
-			<p>
-				<span>Fax Number:</span> 1-800-765-4321
-			</p>
-	</header>
-
-	
-	
-
-	<!-- Add footer -->
-	<footer id="main-footer">
-		<div id="footer">
-			<!-- Add footer navigation bar -->
-			<nav id="navbar">
-			<div class="container">
-				<ul>
-					<li><a href="Uncles.html">Home</a></li>
-					<li><a href="History.html">History</a></li>
-					<li><a href="Gallery.html">Gallery</a></li>
-					<li><a href="TravelPackages.html">Travel Packages</a></li>
-					<li><a href="AboutUs.html">About Us</a></li>
-
-				</ul>
-		</div>
-	</nav>
-		
-	</div>
-		<p>Copyright &copy 2025; My Website</p>
-	</footer>
-
-</body>
-</html>
+Link to the second non-unique section: [Link Text](#this-heading-is-not-unique-in-the-file-1).
