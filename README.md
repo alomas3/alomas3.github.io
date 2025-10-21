@@ -24,7 +24,37 @@ Taking my HTML travel agency website, I planned on enhancing this further and tu
 
 I wanted to showcase my skills in manipulating the database I created for my travel agency webpage and show I can add logic to allow users to manipulate the trip elements by editing the information and by having the option to add an entirely new element all together. I was able to create buttons using HTML so the users could easily navigate this functionality, and I also made sure the backend database matched the updates made by the user. By taking my original Java webpage and turning into a complex webpage created with full stack development, I was able to expand the scope and add more functionality and value to my original artifact. With the newly added functionality, I was able to meet the requirements for the Databases category, and I also fulfilled the last outcome: Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution while managing the trade-offs involved in design choices.  
 
-# Links to the example headings above
+# Enhancement One: Software Design and Engineering
+
+This artifact shows the baseline of my software development skills and the beginning of my ability to render a webpage with the programming language Java. I am going to enhance this artifact by completely redeveloping it into a fully functional HTML website with a corresponding CSS file, then translate it into a different language. I am also going to use this artifact as the first step to creating a full stack website. Exclusively, this enhancement expands the scope of the original project and transforms it into a complex and functional website. This not only takes careful planning and design, but I also must use my previous knowledge to create a website using HTML and translate it into a different application. The skills I will demonstrate are my language skills as well as my skill in creating a markup website. 
+
+# Enhancement Two: Algorithms and Data Structure
+
+This artifact is my product of the enhancement of my HTML website where I implemented full stack development principles and techniques. It originally was my static Java webpage, but I was able to change it and made it more dynamic. I expanded the complexity of not only the website itself, but also the complexity of the data structures. While transforming this simple website into a complex full stack program, I utilized MongoDB which helped me improve the data structure and expand the scope of what the website can handle. Not to mention I successfully implemented a user authentication login system that added needed security to the website. 
+
+# Enhancement Three: Databases
+
+This artifact is my full-stack application where I added more functionality by adding features such as buttons that add and edit elements. For this enhancement my plan was to create a MongoDB interface while also using HTML, CSS, and JavaScript by building a full stack application. I was able to accomplish this plan, allowing me to demonstrate my experience with full stack development and my capability to manipulate a database.
+
+# Course Outcome One: 
+
+I employed strategies for building collaborative environments enabling diverse audiences through my artifact because I show a level of understanding from the different yet collaborating roles there are in a team. I also show that I understand the responsibilities and processes it takes from everyone to create a project in an organized manner. The course I have chosen my artifacts from also challenged me to write in a way that any audience would understand my explanations as well as my definitions, so I believe that shows I am able to cater to diverse audiences whether I am talking to my peers or someone who has no prior knowledge of technical terms.
+
+# Course Outcome Two: 
+
+I designed, developed and delivered professional quality oral, written, and visual communications through my code review and my narratives. Through my code review I was coherent and technically sound when discussing my code as well as my enhancement plans for each category and artifact. My narratives demonstrate my level of understanding when it comes to coherently communicating my decisions and experience when enhancing each artifact. 
+
+# Course Outcome Three: 
+
+I designed and evaluated computing solutions using algorithmic principles and computer science practices by demonstrating I can add functionality that manipulates a database by adding elements or editing them. I was able to use my knowledge of HTML so I could add buttons to initiate these functions in a practical way. 
+
+# Course Outcome Four: 
+
+I demonstrated an ability to use well-founded and innovative techniques, skills, and tools to accomplish an industry-specific by taking my original and basic Java program, transforming it into an HTML website, then into a full-stack application. The enhancements I performed show I have the necessary experience with different software environment tools, such as Visual Studio Code, Node.js, MongoDB, DBeaver, and Postman, and I also have the skills to be able to translate this basic project into a complex and technically sound full-stack application. 
+
+# Course Outcome Five: 
+
+I demonstrated a security mindset by developing a security protocol that is designed to protect vulnerabilities and ensure the security of data by implementing a login screen. This login screen regulates if a user can access the addition and edit functionality and if the user does not pass authentication, then the functions are not accessible. I utilized a feature called Salt that adds random data to a password and then used a hashing function to securely store passwords. 
 
 Link to the sample section: [Link Text](#sample-section).
 
