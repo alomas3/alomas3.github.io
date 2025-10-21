@@ -11,13 +11,19 @@ My time during the Computer Science program exposed me to real-life scenarios wh
 During the code review I am going to review my Java webpage project and show how I can render a client-side webpage using Object-Oriented Programming principles. I am going to demonstrate how I can also create a HTML website and how I am able to style the website using a Cascading Style Sheet. More specifically, I am going to focus on my language skills with both Java and HTML.
 
 # Original artifact 
-![Java Artifact One.](https://github.com/alomas3/alomas3.github.io/blob/main/Java_Webpage_Top.png)
+![Java Artifact One.](Java_Webpage_Top.png)
 
-![Java Artifact Two.](https://github.com/alomas3/alomas3.github.io/blob/main/Java_Webpage_Bottom.png)
+![Java Artifact Two.](Java_Webpage_Bottom.png)
 
 # Enhancement One: Software Design and Engineering
 
-![Java Artifact Two.](https://github.com/alomas3/alomas3.github.io/blob/main/HTML_Webpage_E1.png)
+![HTML Artifact One.](HTML_Webpage_E1.png)
+
+![HTML Artifact Two.](HTML_Webpage_One.png)
+
+![HTML Artifact Three.](HTML_Webpage_Two.png)
+
+![HTML Artifact Four.](HTML_Webpage_Three.png)
 
 
 LINK TO ARTIFACT 
