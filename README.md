@@ -8,8 +8,8 @@ My time during the Computer Science program exposed me to real-life scenarios wh
 
 ## Code Review
 
-Click On The Link To See My Code Review
-https://youtu.be/7d6qp1DWgcM
+Link To See My Code Review:
+[Code Review](#https://youtu.be/7d6qp1DWgcM)
 
 During the code review I am going to review my Java webpage project and show how I can render a client-side webpage using Object-Oriented Programming principles. I am going to demonstrate how I can also create a HTML website and how I am able to style the website using a Cascading Style Sheet. More specifically, I am going to focus on my language skills with both Java and HTML.
 
@@ -104,7 +104,7 @@ I demonstrated an ability to use well-founded and innovative techniques, skills,
 
 I demonstrated a security mindset by developing a security protocol that is designed to protect vulnerabilities and ensure the security of data by implementing a login screen. This login screen regulates if a user can access the addition and edit functionality and if the user does not pass authentication, then the functions are not accessible. I utilized a feature called Salt that adds random data to a password and then used a hashing function to securely store passwords. 
 
-Link to the sample section: [Link Text](#sample-section).
+
 
 Link to the helpful section: [Link Text](#thisll-be-a-helpful-section-about-the-greek-letter-Θ).
 
