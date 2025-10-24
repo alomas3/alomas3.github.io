@@ -8,16 +8,14 @@ My time during the Computer Science program exposed me to real-life scenarios wh
 
 ## Code Review
 
-Link To See My Code Review:
-
-[Code Review](https://youtu.be/7d6qp1DWgcM)
+Link To See My Code Review: [Code Review](https://youtu.be/7d6qp1DWgcM)
 
 During the code review I am going to review my Java webpage project and show how I can render a client-side webpage using Object-Oriented Programming principles. I am going to demonstrate how I can also create a HTML website and how I am able to style the website using a Cascading Style Sheet. More specifically, I am going to focus on my language skills with both Java and HTML.
 
 
 ## Category One: Software Design and Engineering
 
-[CS-250 SNHU Travel Sprint Review and Retrospective](https://github.com/alomas3/alomas3.github.io/blob/main/CS-250%20SNHU%20Travel%20Sprint%20Review%20and%20Retrospective.docx)
+[CS-250 SNHU Travel Sprint Review and Retrospective Paper](https://github.com/alomas3/alomas3.github.io/blob/main/CS-250%20SNHU%20Travel%20Sprint%20Review%20and%20Retrospective.docx)
 
 To fulfill the five course outcomes as well as the three categories expected of me, I first started my enhancement plan with my static webpage developed with Java that displayed five vacation trips and a function where if the user clicked on one of the trips, then the cell would light up a magenta color. Each trip was equipped with a corresponding picture as well as a small description and the name of the photographer. I planned to enhance this artifact by completely translating the Java webpage into a website with five different webpages that acted as a typical website you would find for a travel agency. This covered the Software Engineering and Design category as well as the course outcome: Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals.
 
@@ -36,7 +34,7 @@ I wanted to showcase my skills in manipulating the database I created for my tra
 
 ![Java Artifact Two.](Java_Webpage_Bottom.png)
 
-Static Java Webpage that displays five different locations and has a feature that lights up the cell once a user clicks on a trip.
+###### Static Java Webpage that displays five different locations and has a feature that lights up the cell once a user clicks on a trip.
 
 # Enhancement One: Software Design and Engineering
 
@@ -65,13 +63,15 @@ This artifact is my product of the enhancement of my HTML website where I implem
 
 ![Database Artifact Add One.](ADD_Button_Before.png)
 
+###### Add Button Feature Before
+
 ![Database Artifact Add Two.](ADD_Button_After.png)
 
-Add Button Feature Before and After 
+###### Add Button After 
 
 ![Database Artifact Add Two.](EDIT_Button.png)
 
-Edit Button Feature
+###### Edit Button Feature
 
 [Enhancement Three Narrative](https://github.com/alomas3/alomas3.github.io/blob/main/CS%20499%20Module%20Five%20Milestone%20Four.docx)
 
@@ -98,5 +98,6 @@ I demonstrated an ability to use well-founded and innovative techniques, skills,
 
 I demonstrated a security mindset by developing a security protocol that is designed to protect vulnerabilities and ensure the security of data by implementing a login screen. This login screen regulates if a user can access the addition and edit functionality and if the user does not pass authentication, then the functions are not accessible. I utilized a feature called Salt that adds random data to a password and then used a hashing function to securely store passwords. 
 
+[Github](https://github.com/alomas3/alomas3.github.io)
 
 
