@@ -9,6 +9,7 @@ My time during the Computer Science program exposed me to real-life scenarios wh
 ## Code Review
 
 Link To See My Code Review:
+
 [Code Review](#https://youtu.be/7d6qp1DWgcM)
 
 During the code review I am going to review my Java webpage project and show how I can render a client-side webpage using Object-Oriented Programming principles. I am going to demonstrate how I can also create a HTML website and how I am able to style the website using a Cascading Style Sheet. More specifically, I am going to focus on my language skills with both Java and HTML.
@@ -16,7 +17,7 @@ During the code review I am going to review my Java webpage project and show how
 
 ## Category One: Software Design and Engineering
 
-LINK TO PAPER
+[CS-250 SNHU Travel Sprint Review and Retrospective.docx](#https://github.com/alomas3/alomas3.github.io/blob/main/CS-250%20SNHU%20Travel%20Sprint%20Review%20and%20Retrospective.docx)
 
 To fulfill the five course outcomes as well as the three categories expected of me, I first started my enhancement plan with my static webpage developed with Java that displayed five vacation trips and a function where if the user clicked on one of the trips, then the cell would light up a magenta color. Each trip was equipped with a corresponding picture as well as a small description and the name of the photographer. I planned to enhance this artifact by completely translating the Java webpage into a website with five different webpages that acted as a typical website you would find for a travel agency. This covered the Software Engineering and Design category as well as the course outcome: Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals.
 
@@ -106,8 +107,3 @@ I demonstrated a security mindset by developing a security protocol that is desi
 
 
 
-Link to the helpful section: [Link Text](#thisll-be-a-helpful-section-about-the-greek-letter-Θ).
-
-Link to the first non-unique section: [Link Text](#this-heading-is-not-unique-in-the-file).
-
-Link to the second non-unique section: [Link Text](#this-heading-is-not-unique-in-the-file-1).
