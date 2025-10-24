@@ -17,14 +17,13 @@ During the code review I am going to review my Java webpage project and show how
 
 ## Category One: Software Design and Engineering
 
-[CS-250 SNHU Travel Sprint Review and Retrospective.docx](https://github.com/alomas3/alomas3.github.io/blob/main/CS-250%20SNHU%20Travel%20Sprint%20Review%20and%20Retrospective.docx)
+[CS-250 SNHU Travel Sprint Review and Retrospective](https://github.com/alomas3/alomas3.github.io/blob/main/CS-250%20SNHU%20Travel%20Sprint%20Review%20and%20Retrospective.docx)
 
 To fulfill the five course outcomes as well as the three categories expected of me, I first started my enhancement plan with my static webpage developed with Java that displayed five vacation trips and a function where if the user clicked on one of the trips, then the cell would light up a magenta color. Each trip was equipped with a corresponding picture as well as a small description and the name of the photographer. I planned to enhance this artifact by completely translating the Java webpage into a website with five different webpages that acted as a typical website you would find for a travel agency. This covered the Software Engineering and Design category as well as the course outcome: Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals.
 
 While pretending like I was a member of a Scrum team, I was enrolled in a course that prepared me to work effectively in a collaborative environment and this course forced me to understand the importance of working together with other team members. In my enhancement plan for my ePortfolio, I wanted to include my paper I wrote about the different roles and responsibilities of each member of a team and how successful and beneficial it can be to be a part of a team. I also prepared a code review that discerns my code and my plan for the rest of the artifacts and these pieces of work both cover the Software Engineering and Design category as well as the two course outcomes: Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision-making in the field of computer science, and Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts.  
 
 ## Category Two: Algorithms and Data Structures
-
 
 Taking my HTML travel agency website, I planned on enhancing this further and turning it into a website using full-stack development. I developed a database where I added my previous vacation trips. I was able to create a data structure along with an added login screen that required the user to pass authentication measures to access functions only accessible if the user login information matched and was allowed access. This process allowed me to fulfil the Algorithms and Data Structures category as well as achieve the following course outcome: Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources.
 
@@ -49,10 +48,7 @@ Static Java Webpage that displays five different locations and has a feature tha
 
 ![HTML Artifact Four.](HTML_Webpage_Three.png)
 
-LINK TO NARRATIVE 
-
-ADD LINK TO GIT HUB
-
+[Enhancement One Narrative](https://github.com/alomas3/alomas3.github.io/blob/main/CS%20499%20Module%20Three%20Narrative.docx)
 
 This artifact shows the baseline of my software development skills and the beginning of my ability to render a webpage with the programming language Java. I am going to enhance this artifact by completely redeveloping it into a fully functional HTML website with a corresponding CSS file, then translate it into a different language. I am also going to use this artifact as the first step to creating a full stack website. Exclusively, this enhancement expands the scope of the original project and transforms it into a complex and functional website. This not only takes careful planning and design, but I also must use my previous knowledge to create a website using HTML and translate it into a different application. The skills I will demonstrate are my language skills as well as my skill in creating a markup website. 
 
@@ -60,9 +56,8 @@ This artifact shows the baseline of my software development skills and the begin
 
 ![Data Structure Artifact.](Database_E2.png)
 
-LINK TO NARRATIVE
+[Enhancement Two Narrative](https://github.com/alomas3/alomas3.github.io/blob/main/CS%20499%20Module%20Four%20Narrative.docx)
 
-ADD LINK TO GITHUB
 
 This artifact is my product of the enhancement of my HTML website where I implemented full stack development principles and techniques. It originally was my static Java webpage, but I was able to change it and made it more dynamic. I expanded the complexity of not only the website itself, but also the complexity of the data structures. While transforming this simple website into a complex full stack program, I utilized MongoDB which helped me improve the data structure and expand the scope of what the website can handle. Not to mention I successfully implemented a user authentication login system that added needed security to the website. 
 
@@ -78,10 +73,8 @@ Add Button Feature Before and After
 
 Edit Button Feature
 
+[Enhancement Three Narrative](https://github.com/alomas3/alomas3.github.io/blob/main/CS%20499%20Module%20Five%20Milestone%20Four.docx)
 
-LINK TO NARRATIVE
-
-ADD LINK TO GITHUB
 
 This artifact is my full-stack application where I added more functionality by adding features such as buttons that add and edit elements. For this enhancement my plan was to create a MongoDB interface while also using HTML, CSS, and JavaScript by building a full stack application. I was able to accomplish this plan, allowing me to demonstrate my experience with full stack development and my capability to manipulate a database.
 
